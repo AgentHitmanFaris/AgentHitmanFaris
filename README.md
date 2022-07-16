@@ -21,11 +21,11 @@ WELCOME TO MY GITHUB PROFILE<br>
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/8ee3e74d55894c77b4da3623589b93fc.png?r=evp" width="256" alt="AgentHitmanFaris's Dev Card"
+      src="https://api.daily.dev/devcards/8ee3e74d55894c77b4da3623589b93fc.png?r=w2n" width="256" alt="AgentHitmanFaris's Dev Card"
     />
   </a>
 </div>
- <p align="center">
+ <p align="right">
   Hello, my name is Muhammad Faris Hakim also knowna s AHF. I'm currently 3rd year university student, studying Computer Engineering in Malaysia. 
   I'm interested in cybersecurity and eager to learn. As now currently working on project name <a href="https://github.com/AgentHitmanFaris/Security_Breaches"> Security Breaches </a>
   Have some question? Message me on <a href="https://www.linkedin.com/in/muhammad-faris-hakim-hussin-8065b91b8/"> LinkedIn</a>.
@@ -39,15 +39,13 @@ WELCOME TO MY GITHUB PROFILE<br>
 
 ![Achievements](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/achievements.svg)
  
- <p align = "center">
+ <p>
   You can also check out my Metrics Insights at <br>
-    <img align = "center" src ="https://metrics.lecoq.io/AgentHitmanFaris">
+    <img src ="https://metrics.lecoq.io/AgentHitmanFaris">
  </p>
  
- <p rc="https://metrics.lecoq.io/insights/AgentHitmanFaris">
-  </p>
  
- <b>My GitHub Stats</b>
+<h2 align = "center" >My GitHub Stats</h2>
 
 <div align="left">
     <a href="http://www.github.com/AgentHitmanFaris">
