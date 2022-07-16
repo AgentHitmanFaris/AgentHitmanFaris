@@ -21,7 +21,7 @@ WELCOME TO MY GITHUB PROFILE<br>
   Have some question? Message me on <a href="https://www.linkedin.com/in/muhammad-faris-hakim-hussin-8065b91b8/"> LinkedIn</a>.
  </p>
  
-![Metrics](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/github-metrics.svg)
+![Metrics](https://github.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics.svg)
 
 ![Notable contributions](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/notable.svg)
 
