@@ -1,7 +1,9 @@
 <h1 align="center">HELLO.CIAO.أهلا.안녕하세요.こんにちは.你好<br>
 WELCOME TO MY GITHUB PROFILE<br>
 <img align="center" width="100" src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgentHitmanFaris%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h1>
+
 
 <p align="center" >
   <img width="300" height="300"  src="https://github.com/AgentHitmanFaris/Image/blob/main/-%5B%5D-.png">
