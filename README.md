@@ -20,3 +20,16 @@ WELCOME TO MY GITHUB PROFILE<br>
   I'm interested in cybersecurity and eager to learn. As now currently working on project name <a href="https://github.com/AgentHitmanFaris/Security_Breaches"> Security Breaches </a>
   Have some question? Message me on <a href="https://www.linkedin.com/in/muhammad-faris-hakim-hussin-8065b91b8/"> LinkedIn</a>.
  </p>
+ 
+![Metrics](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/github-metrics.svg)
+
+![Notable contributions](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/notable.svg)
+
+![Coding habits](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/habits.svg)
+
+![Achievements](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/achievements.svg)
+ 
+ <p align = "center">
+  You can also check out my Metrics Insights at <br>
+    <img align = "center" src ="https://metrics.lecoq.io/AgentHitmanFaris">
+ </p>
