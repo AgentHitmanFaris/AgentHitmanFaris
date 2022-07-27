@@ -23,7 +23,7 @@ WELCOME TO MY GITHUB PROFILE<br>
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/8ee3e74d55894c77b4da3623589b93fc.png?r=w2n" width="256" alt="AgentHitmanFaris's Dev Card"
+      src="https://api.daily.dev/devcards/8ee3e74d55894c77b4da3623589b93fc.png?r=iou" width="256" alt="AgentHitmanFaris's Dev Card"
     />
   </a>
 </div>
