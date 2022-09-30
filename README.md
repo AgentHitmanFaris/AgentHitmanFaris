@@ -67,6 +67,7 @@ WELCOME TO MY GITHUB PROFILE<br>
 
 <a href="https://github.com/AgentHitmanFaris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentHitmanFaris&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AgentHitmanFaris&theme=dracula)](https://github.com/AgentHitmanFaris/github-readme-activity-graph)
 
 ### Support Me
 
