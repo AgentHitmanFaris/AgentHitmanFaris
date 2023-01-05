@@ -55,8 +55,6 @@ WELCOME TO MY GITHUB PROFILE<br>
     </a>
 </div>
 
-<a href="http://www.github.com/AgentHitmanFaris"><img src="https://activity-graph.herokuapp.com/graph?username=AgentHitmanFaris&&bg_color=100#eecda3,#ef629f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
 <a href="https://github.com/AgentHitmanFaris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentHitmanFaris&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
 
 ### Support Me
