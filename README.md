@@ -33,14 +33,6 @@ WELCOME TO MY GITHUB PROFILE<br>
   Have some question? Message me on <a href="https://www.linkedin.com/in/muhammad-faris-hakim-hussin-8065b91b8/"> LinkedIn</a>.
 </p>
  
-![Metrics](https://github.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics.svg)
-
-![Notable contributions](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/notable.svg)
-
-![Coding habits](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/habits.svg)
-
-![Achievements](https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/achievements.svg)
- 
  <p>
   You can also check out my Metrics Insights at <br>
     <img src ="https://metrics.lecoq.io/AgentHitmanFaris">
@@ -66,8 +58,6 @@ WELCOME TO MY GITHUB PROFILE<br>
 <a href="http://www.github.com/AgentHitmanFaris"><img src="https://activity-graph.herokuapp.com/graph?username=AgentHitmanFaris&&bg_color=100#eecda3,#ef629f&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 <a href="https://github.com/AgentHitmanFaris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentHitmanFaris&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AgentHitmanFaris&theme=dracula)](https://github.com/AgentHitmanFaris/github-readme-activity-graph)
 
 ### Support Me
 
