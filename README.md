@@ -44,12 +44,6 @@ WELCOME TO MY GITHUB PROFILE<br>
 <div align="left">
     <a href="http://www.github.com/AgentHitmanFaris">
         <img 
-             src="https://github-readme-stats.vercel.app/api?username=AgentHitmanFaris&show_icons=true&hide=&count_private=true&theme=vision-friendly-dark" 
-             alt="AgentHitmanFaris's GitHub stats" 
-        />
-    </a>
-    <a href="http://www.github.com/AgentHitmanFaris">
-        <img 
              src="https://github-readme-streak-stats.herokuapp.com/?user=AgentHitmanFaris&theme=vision-friendly-dark" 
         />
     </a>
