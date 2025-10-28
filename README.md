@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="border: 2px solid #00F7FF; border-radius: 10px; padding: 20px; margin: 20px; box-shadow: 0 0 15px #00F7FF;">
-  <img src="https://github.com/AgentHitmanFaris/Image/blob/main/cyber-avatar.png" width="300" height="300" alt="Cyberpunk-themed Avatar">
+  <img src="https://raw.githubusercontent.com/AgentHitmanFaris/Image/main/cyber-avatar.png" width="300" height="300" alt="Cyberpunk-themed Avatar">
 </div>
 
 <p align="center">
