@@ -47,7 +47,8 @@
     <tr>
       <td align="center" width="50%" valign="top" style="border: none;">
         <h3 align="center" style="color: #00F7FF;">[ MISSION STATS ]</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=AgentHitmanFaris&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=bc13fe&text_color=FFFFFF&count_private=true" alt="GitHub Stats">
+        <!-- Replaced external Vercel stats with self-hosted metrics -->
+        <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/github-metrics.svg" alt="GitHub Stats">
         <br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgentHitmanFaris&theme=cyberpunk&hide_border=true&background=0d1117&ring=bc13fe&fire=00ff41&currStreakLabel=00F7FF" alt="Streak Stats">
       </td>
@@ -89,8 +90,8 @@
 <pre>
 <code class="language-diff">
 <span style="color: #00ff41;">+ user@cyber-deck:~$ status --mission "Algorithm Explain System"</span>
-<span style="color: #00ff41;">! [STATUS]: ▓▓▓▓▓▓▓▓▓▓░░ 85% COMPLETE</span>
-<span style="color: #00ff41;">> [ACTION]: DEPLOYING NEURAL LINK...</span>
+<span style="color: #00ff41;">! [STATUS]: IN PROGRESS...</span>
+<span style="color: #00ff41;">> [ACTION]: OPTIMIZING NEURAL PATHWAYS...</span>
 
 <span style="color: #bc13fe;"># user@cyber-deck:~$ next-objective</span>
 <span style="color: #bc13fe;">- [TARGET]: QUANTUM ENCRYPTION MODULE</span>
