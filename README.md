@@ -47,10 +47,7 @@
     <tr>
       <td align="center" width="50%" valign="top" style="border: none;">
         <h3 align="center" style="color: #00F7FF;">[ MISSION STATS ]</h3>
-        <!-- Replaced external Vercel stats with self-hosted metrics -->
-        <img src="[https://pixel-profile.vercel.app/api/github-stats?username=AgentHitmanFaris](https://pixel-profile.vercel.app/api/github-stats?username=AgentHitmanFaris)" alt="GitHub Stats">
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgentHitmanFaris&theme=cyberpunk&hide_border=true&background=0d1117&ring=bc13fe&fire=00ff41&currStreakLabel=00F7FF" alt="Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=AgentHitmanFaris&theme=radical&short_numbers=true" alt="GitHub Streak" />
       </td>
       <td align="center" width="50%" valign="top" style="border: none;">
         <h3 align="center" style="color: #bc13fe;">[ CODING HABITS ]</h3>
