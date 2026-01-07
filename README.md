@@ -21,7 +21,8 @@
 
 ---
 
-### 🚀 Featured Project: NC-KTV
+### Featured Project: NC-KTV
+<img src="https://github.com/AgentHitmanFaris/NC-KTV/blob/Stable/assets/logo.png" alt="NC-KTV Logo" width="100"/>
 
 **The All-in-One AI Karaoke Creator**
 
@@ -41,7 +42,7 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
 
 ---
 
-### 🛠️ Technical Expertise
+### Technical Expertise
 
 I bridge the gap between secure infrastructure and efficient software development.
 
@@ -59,7 +60,7 @@ I bridge the gap between secure infrastructure and efficient software developmen
 
 ---
 
-### 📊 Engineering Metrics
+### Engineering Metrics
 
 <div align="center">
   <table style="border: none;">
