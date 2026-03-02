@@ -29,11 +29,9 @@ jobs:
           config_timezone: Malaysia
           config_order: base.header, base.activity+community, base.repositories, base.metadata
 
-          # Cyberpunk Theme
+          # Appearance
           config_padding: 0, 10%
           config_twemoji: yes
-          # Use 'radical' theme for neon/dark aesthetic
-          config_theme: radical
 
           # Plugins
           plugin_lines: yes
@@ -61,8 +59,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          # Use consistent theme
-          config_theme: radical
 
   habits:
     runs-on: ubuntu-latest
@@ -85,8 +81,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          # Use consistent theme
-          config_theme: radical
 
   achievements:
     runs-on: ubuntu-latest
@@ -110,5 +104,3 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          # Use consistent theme
-          config_theme: radical
