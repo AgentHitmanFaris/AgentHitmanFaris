@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AgentHitmanFaris/Image/main/cyber-avatar.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00F7FF;" alt="Avatar">
 
   <h1 style="font-size: 3em; margin-bottom: 0;">Muhammad Faris Hakim Hussin</h1>
   <h3 style="color: #bc13fe; margin-top: 0;">Security-First Software Engineer | Full Stack Developer</h3>
