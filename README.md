@@ -62,6 +62,8 @@ I bridge the gap between secure infrastructure and efficient software developmen
 ### Engineering Metrics
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <br><br>
   <table style="border: none;">
     <tr>
       <td align="center" width="50%" valign="top" style="border: none;">
@@ -69,6 +71,14 @@ I bridge the gap between secure infrastructure and efficient software developmen
       </td>
       <td align="center" width="50%" valign="top" style="border: none;">
         <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/habits.svg" alt="Coding Habits" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top" style="border: none;">
+        <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/notable.svg" alt="Notable Contributions" width="100%">
+      </td>
+      <td align="center" width="50%" valign="top" style="border: none;">
+        <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/achievements.svg" alt="Achievements" width="100%">
       </td>
     </tr>
   </table>
