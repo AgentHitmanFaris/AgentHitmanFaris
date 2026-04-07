@@ -4,7 +4,7 @@
   <h3 style="color: #bc13fe; margin-top: 0;">Security-First Software Engineer | Full Stack Developer</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/muhammad-faris-hakim-hussin-8065b91b8/">
+    <a href="https://www.linkedin.com/in/muhammad-faris-hakim-hussin-b520b9384/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:farishakim38@gmail.com">
