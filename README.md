@@ -50,9 +50,9 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
       <p align="center"><b>Next-Gen Piano Visualization</b></p>
       <p>Bridging the gap between MIDI and human motion. Features <b>NCPiano</b>, a custom CNN model that synthesizes lifelike 3D hand movements to play piano with human-level expression.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/Qt6-000000?style=for-the-badge&logo=qt&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
       </div>
       <p align="center"><i>Status: In Development</i></p>
     </td>
@@ -61,9 +61,9 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
       <p align="center"><b>Precision Formation Tracking</b></p>
       <p>Advanced spatial analysis for dance troupes. Inspired by StageKeep and ChoreoRoom, it utilizes YOLO for high-fidelity multi-person tracking and formation pattern recognition.</p>
       <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-        <img src="https://img.shields.io/badge/CV-Machine_Learning-5C3EE8?style=for-the-badge&logo=google-cloud&logoColor=white">
+        <img src="https://img.shields.io/badge/C++_Planned-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       </div>
       <p align="center"><i>Status: Research Phase</i></p>
     </td>
