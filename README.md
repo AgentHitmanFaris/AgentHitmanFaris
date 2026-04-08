@@ -57,7 +57,7 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
       <p align="center"><i>Status: In Development</i></p>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:20px;">
-      <p align = "center"> <img src="https://github.com/AgentHitmanFaris/NC-DanceDot/blob/Stable/icon.png" alt="NC-DanceDot logo" width="100" ></p>
+      <p align = "center"> <img src="https://github.com/AgentHitmanFaris/AgentHitmanFaris/blob/main/img/icon.png" alt="NC-DanceDot logo" width="100" ></p>
       <h4 align="center">NC-DanceDot</h4>
       <p align="center"><b>Precision Formation Tracking</b></p>
       <p>Advanced spatial analysis for dance troupes. Inspired by StageKeep and ChoreoRoom, it utilizes YOLO for high-fidelity multi-person tracking and formation pattern recognition.</p>
