@@ -55,6 +55,7 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
       </div>
       <p align="center"><i>Status: In Development</i></p>
+      <p align="center"><i>Expected Release: May 2026</i></p>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:20px;">
       <p align = "center"> <img src="https://github.com/AgentHitmanFaris/AgentHitmanFaris/blob/main/img/icon.png" alt="NC-DanceDot logo" width="100" ></p>
@@ -67,6 +68,7 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
         <img src="https://img.shields.io/badge/C++_Planned-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       </div>
       <p align="center"><i>Status: Research Phase</i></p>
+      <p align="center"><i>Expected Release: Autumn 2026</i></p>
     </td>
   </tr>
 </table>
