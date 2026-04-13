@@ -54,7 +54,7 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
         <img src="https://img.shields.io/badge/Qt6-000000?style=for-the-badge&logo=qt&logoColor=white">
         <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
       </div>
-      <p align="center"><i>Status: In Development</i></p>
+      <p align="center"><i>Status: In Testing</i></p>
       <p align="center"><i>Expected Release: May 2026</i></p>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:20px;">
