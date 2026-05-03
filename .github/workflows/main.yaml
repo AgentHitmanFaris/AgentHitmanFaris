@@ -1,6 +1,7 @@
+---
 name: DevCard
 
-on:
+"on":
   workflow_dispatch:
   push:
     branches:
