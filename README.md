@@ -20,24 +20,36 @@
 
 ---
 
-### Featured Project: NC-KTV
-<img src="https://github.com/AgentHitmanFaris/NC-KTV/blob/Stable/assets/logo.png" alt="NC-KTV Logo" width="100"/>
+<div align="center">
+  <h3>Featured Project: NC-KTV</h3>
+  <img src="https://github.com/AgentHitmanFaris/NC-KTV/blob/Stable/assets/logo.png" alt="NC-KTV Logo" width="120"/>
+  <br><br>
+  <b>The All-in-One AI Karaoke Creator</b>
+  <p>NC-KTV automates vocal isolation and lyric synchronization using advanced AI models.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/AI-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  </p>
+  <a href="https://github.com/AgentHitmanFaris/NC-KTV">View Repository</a>
+</div>
 
-**The All-in-One AI Karaoke Creator**
+---
 
-NC-KTV is a robust desktop application designed to revolutionize how karaoke content is created. By leveraging advanced Artificial Intelligence, it automates the complex process of vocal isolation and lyric synchronization.
-
-*   **Vocal Removal:** High-fidelity separation of vocals from instrumentals.
-*   **Auto-Sync:** AI-driven alignment of lyrics for perfect timing.
-*   **Professional Output:** Generates ready-to-use karaoke videos.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
-
-[View Repository](https://github.com/AgentHitmanFaris/NC-KTV)
+<div align="center">
+  <h3>Malay Chord Research</h3>
+  
+  <img src="https://raw.githubusercontent.com/adrianhef/adrianhef/master/transparent.png" width="30" height="1"><img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/main/img/ico.png" alt="Malay Chord Research Logo" width="400" />
+  
+  <br><br>
+  <p><i>Computational analysis mapping the harmonic evolution of Malay music.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/%F0%9F%94%84_Focus-Data_Science-F37626?style=flat-square">
+    <img src="https://img.shields.io/badge/%F0%9F%90%8D_Tech-Python-3776AB?style=flat-square">
+    <img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_Analysis-Music_Theory-61DAFB?style=flat-square&logoColor=black">
+  </p>
+  <a href="https://github.com/AgentHitmanFaris/Malay-Chord-Reasech">Not Released Yet</a>
+</div>
 
 ---
 
@@ -48,37 +60,30 @@ NC-KTV is a robust desktop application designed to revolutionize how karaoke con
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:20px;">
       <h4 align="center">NC-Motion</h4>
       <p align="center"><b>Next-Gen Piano Visualization</b></p>
-      <p>Bridging the gap between MIDI and human motion. Features <b>NCPiano</b>, a custom CNN model that synthesizes lifelike 3D hand movements to play piano with human-level expression.</p>
+      <p>Bridging the gap between MIDI and human motion. Features <b>NCPiano</b>, a custom CNN model that synthesizes lifelike 3D hand movements.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Qt6-000000?style=for-the-badge&logo=qt&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
       </div>
-      <p align="center"><i>Status: In Testing</i></p>
       <p align="center"><i>Expected Release: May 2026</i></p>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:10px; padding:20px;">
-      <p align = "center"> <img src="https://github.com/AgentHitmanFaris/AgentHitmanFaris/blob/main/img/icon.png" alt="NC-DanceDot logo" width="100" ></p>
+      <p align = "center"> <img src="https://github.com/AgentHitmanFaris/AgentHitmanFaris/blob/main/img/icon.png" alt="NC-DanceDot logo" width="80" ></p>
       <h4 align="center">NC-DanceDot</h4>
       <p align="center"><b>Precision Formation Tracking</b></p>
-      <p>Advanced spatial analysis for dance troupes. Inspired by StageKeep and ChoreoRoom, it utilizes YOLO for high-fidelity multi-person tracking and formation pattern recognition.</p>
+      <p>Utilizes YOLO for high-fidelity multi-person tracking and formation pattern recognition for dance troupes.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/YOLOv26-00FFFF?style=for-the-badge&logo=opencv&logoColor=black">
-        <img src="https://img.shields.io/badge/C++_Planned-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       </div>
-      <p align="center"><i>Status: In Development</i></p>
       <p align="center"><i>Expected Release: Autumn 2026</i></p>
     </td>
   </tr>
 </table>
 
-
 ---
 
 ### Technical Expertise
-
-I bridge the gap between secure infrastructure and efficient software development.
 
 #### Core Development
 <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nodejs,html,css,flask,postgres,docker,git&theme=dark&perline=15" alt="Dev Stack">
@@ -106,14 +111,6 @@ I bridge the gap between secure infrastructure and efficient software developmen
       </td>
       <td align="center" width="50%" valign="top" style="border: none;">
         <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/habits.svg" alt="Coding Habits" width="100%">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" valign="top" style="border: none;">
-        <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/notable.svg" alt="Notable Contributions" width="100%">
-      </td>
-      <td align="center" width="50%" valign="top" style="border: none;">
-        <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/github-metrics/achievements.svg" alt="Achievements" width="100%">
       </td>
     </tr>
   </table>
