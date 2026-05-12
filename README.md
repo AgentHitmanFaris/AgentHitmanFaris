@@ -39,9 +39,8 @@
 <div align="center">
   <h3>Malay Chord Research</h3>
   
-  <img src="https://raw.githubusercontent.com/adrianhef/adrianhef/master/transparent.png" width="30" height="1"><img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/main/img/ico.png" alt="Malay Chord Research Logo" width="400" />
+  <img src="https://raw.githubusercontent.com/adrianhef/adrianhef/master/transparent.png" width="30" height="0"><img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/main/img/ico.png" alt="Malay Chord Research Logo" width="400" />
   
-  <br><br>
   <p><i>Computational analysis mapping the harmonic evolution of Malay music.</i></p>
   <p>
     <img src="https://img.shields.io/badge/%F0%9F%94%84_Focus-Data_Science-F37626?style=flat-square">
