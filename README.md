@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%90%8D_Tech-Python-3776AB?style=flat-square">
     <img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_Analysis-Music_Theory-61DAFB?style=flat-square&logoColor=black">
   </p>
-  <a href="https://github.com/AgentHitmanFaris/Malay-Chord-Reasech">Not Released Yet</a>
+  <a href="[https://github.com/AgentHitmanFaris/Malay-Chord-Reasech](https://doi.org/10.5281/zenodo.20133806)">Read The Paper</a>
 </div>
 
 ---
