@@ -113,12 +113,4 @@
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://raw.githubusercontent.com/AgentHitmanFaris/AgentHitmanFaris/output/github-contribution-grid-snake-dark.svg?palette=cyberpunk" alt="Snake Animation">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AgentHitmanFaris/count.svg" alt="Visitor Count">
 </div>
