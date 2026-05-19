@@ -28,7 +28,6 @@ jobs:
           config_order: base.header, base.activity+community, base.repositories, base.metadata
           config_padding: 0, 10%
           config_twemoji: true
-          # plugin_lines: true is heavy, set to false if it hangs
           plugin_lines: false
           filename: github-metrics.svg
           verify: true
