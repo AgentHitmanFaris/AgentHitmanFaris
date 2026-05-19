@@ -28,8 +28,10 @@ jobs:
           config_order: base.header, base.activity+community, base.repositories, base.metadata
           config_padding: 0, 10%
           config_twemoji: true
-          plugin_lines: true
+          # plugin_lines: true is heavy, set to false if it hangs
+          plugin_lines: false
           filename: github-metrics.svg
+          verify: true
 
   notable:
     needs: github-metrics
@@ -51,6 +53,7 @@ jobs:
           plugin_notable: true
           plugin_notable_from: organization
           plugin_notable_types: commit
+          verify: true
 
   habits:
     needs: notable
@@ -72,6 +75,7 @@ jobs:
           plugin_habits: true
           plugin_habits_facts: true
           plugin_habits_charts: true
+          verify: true
 
   achievements:
     needs: habits
@@ -94,3 +98,4 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: true
           plugin_achievements_threshold: C
+          verify: true
