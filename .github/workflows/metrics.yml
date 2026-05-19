@@ -1,6 +1,5 @@
----
 name: Metrics
-"on":
+on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -21,20 +20,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update ${filename}"
           user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Malaysia
-          config_order: >-
-            base.header, base.activity+community, base.repositories,
-            base.metadata
+          config_timezone: Asia/Kuala_Lumpur
+          config_order: base.header, base.activity+community, base.repositories, base.metadata
           config_padding: 0, 10%
           config_twemoji: true
           plugin_lines: true
           filename: github-metrics.svg
 
   notable:
+    needs: github-metrics
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -42,10 +40,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update ${filename}"
           user: ${{ github.repository_owner }}
           template: classic
-          config_timezone: Malaysia
+          config_timezone: Asia/Kuala_Lumpur
           base: ""
           config_display: large
           config_output: svg
@@ -55,6 +53,7 @@ jobs:
           plugin_notable_types: commit
 
   habits:
+    needs: notable
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -62,10 +61,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update ${filename}"
           user: ${{ github.repository_owner }}
           template: classic
-          config_timezone: Malaysia
+          config_timezone: Asia/Kuala_Lumpur
           base: ""
           config_display: large
           config_output: svg
@@ -75,6 +74,7 @@ jobs:
           plugin_habits_charts: true
 
   achievements:
+    needs: habits
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -82,10 +82,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update ${filename}"
           user: ${{ github.repository_owner }}
           template: classic
-          config_timezone: Malaysia
+          config_timezone: Asia/Kuala_Lumpur
           base: ""
           config_display: large
           config_output: svg
